@@ -2,6 +2,8 @@
 
 This repository contains the underlying data used to develop geographical characterisation of British urban form and function using the Spatial Signatures framework.
 
+This is a data annexe to the Open Data Product available at https://doi.org/10.6084/m9.figshare.16691575.v1. 
+
 It contains three partitioned Apache Parquet files:
 
 - `form`
