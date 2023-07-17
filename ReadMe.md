@@ -57,3 +57,12 @@ dtypes: geometry(1), object(1), float64(234), int64(2)
 
 [5 rows x 238 columns]
 ```
+
+## Column names and descriptions
+
+[Work in progress]
+
+Column names and descriptions are available from:
+
+- The two dictionaries in [here](https://urbangrammarai.xyz/spatial_signatures/data_product/create_data_product.html#rename-columns)
+- The official but aggregated description on [Figshare](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575?file=30904888)
